@@ -1,0 +1,60 @@
+body {
+  background-image: url("img/vans logo2.jpg");
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 700px;
+}
+
+h1 {
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Nosifer', cursive;
+  font-size: 45px;
+  clear: both;
+}
+
+h2 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 35px;
+  color: #ffffff;
+  clear: both;
+}
+
+h3 {
+  font-family: 'Caesar Dressing', cursive;
+  text-align: center;
+  font-size: 35px;
+  color: #ffffff;
+  clear: both;
+}
+
+p {
+  color: #ffffff;
+  font-size: 20px;
+
+}
+
+ol {
+  font-size: 20px;
+  color: #ffffff;
+}
+
+div {
+
+}
+
+img {
+  max-width: 100%;
+  float: right;
+  margin: 0 0 15px 15;
+}
+
+a:link {
+color: #a5c5f7;
+}
+a:visited {
+color: #f7a5a5;
+}
+a:hover {
+color: #a5c5f7;
+}
